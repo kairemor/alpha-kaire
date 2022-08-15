@@ -7,8 +7,8 @@ function Service() {
         <div className="heading_container">
           <h2>Our Furniture</h2>
           <p>
-            which don't look even slightly believable. If you are going to use a
-            passage of Lorem Ipsum, you need to be sure there isn't an
+            which dont look even slightly believable. If you are going to use a
+            passage of Lorem Ipsum, you need to be sure there isnt an
           </p>
         </div>
         <div className="row">

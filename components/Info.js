@@ -11,7 +11,7 @@ function Info() {
                 <div className="info_detail">
                   <h5>Visit Our Shop</h5>
                   <p>
-                    Randomised words which don't look even slightly believable.
+                    Randomised words which dont look even slightly believable.
                     If you are going to use a passage of Lorem Ipsum, you need
                     to be sure
                   </p>
@@ -21,9 +21,9 @@ function Info() {
                 <div className="info_detail">
                   <h5>Customer Service</h5>
                   <p>
-                    Randomised words which don't look even slightly believable.
-                    If you are going to use a passage of Lorem Ipsum, you need
-                    to be sure
+                    Randomised words which dot look even slightly believable. If
+                    you are going to use a passage of Lorem Ipsum, you need to
+                    be sure
                   </p>
                 </div>
               </div>

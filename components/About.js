@@ -17,8 +17,8 @@ function About({ about }) {
                   <h2>About Our furniture</h2>
                 </div>
                 <p>
-                  which don't look even slightly believable. If you are going to
-                  use a passage of Lorem Ipsum, you need to be sure there isn't
+                  which dont look even slightly believable. If you are going to
+                  use a passage of Lorem Ipsum, you need to be sure there isnt
                   anything embarrassing hidden in the middle of text. All the
                   Lorem Ipsum{" "}
                 </p>

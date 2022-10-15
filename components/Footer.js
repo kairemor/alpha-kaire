@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By
-          <a href="https://html.design/">Free Html Templates</a>
+          <a href="https://kairemor.com">  ❤️KMTC❤️ 😎🙏🏼</a>
         </p>
       </div>
     </section>

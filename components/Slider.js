@@ -1,6 +1,6 @@
 import React from "react";
 
-function Slider() {
+function Slider({ slider }) {
   return (
     <section className="slider_section ">
       <div className="slider-container">
@@ -68,7 +68,7 @@ function Slider() {
                 </div>
                 <div className="col-md-6 col-lg-7">
                   <div className="img-box">
-                    <img src="images/slider-img3.png" alt="" />
+                    <img src="/images/slider-img3.png" alt="" />
                   </div>
                 </div>
               </div>
@@ -77,13 +77,13 @@ function Slider() {
         </div>
         <div className="slick_slider_nav">
           <div className="slick_nav-item">
-            <img src="images/slider-img1.png" alt="" />
+            <img src="/images/slider-img1.png" alt="" />
           </div>
           <div className="slick_nav-item">
-            <img src="images/slider-img2.png" alt="" />
+            <img src="/images/slider-img2.png" alt="" />
           </div>
           <div className="slick_nav-item">
-            <img src="images/slider-img3.png" alt="" />
+            <img src="/images/slider-img3.png" alt="" />
           </div>
         </div>
       </div>

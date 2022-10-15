@@ -9,7 +9,7 @@ export const data = {
   contactUs: "",
   footer: "",
   header: {
-    title: "Menuiserie Kaire & Frere",
+    title: "Alpha KAIRE ",
     menu: [
       {
         label: "ACCUEIL",
@@ -38,9 +38,23 @@ export const data = {
     ],
   },
   info: {
-    phones: ["77 362 25 50", "76 685 64 68"],
-    email: "maxkaire@gmail.com",
-    location: "Location : Rue Yacine BOUBOU, Thiès",
+    phones: ["78 122 76 46", "77 069 58 21"],
+    email: "alphakaire@gmail.com",
+    location: "Location : Pikine Tally Bou Mak en face Stade Alassane Djogo",
+    socials: [
+      {
+        className: "fa fa-facebook",
+        link: "http://www.facebook.com",
+      },
+      {
+        className: "fa fa-twitter",
+        link: "http://www.facebook.com",
+      },
+      {
+        className: "fa fa-linkedin",
+        link: "http://www.facebook.com",
+      },
+    ],
   },
   layout: "",
   service: {

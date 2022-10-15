@@ -14,11 +14,17 @@ function Layout({ children }) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
 
-        <meta name="keywords" content="" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
+        <meta
+          name="keywords"
+          content="Menuisier, Menuisier Bois, Menuisier Dakar, Menuisier Pikine"
+        />
+        <meta
+          name="description"
+          content="Website describes the work of carpenter Alpha Kaire"
+        />
+        <meta name="author" content="Mor KAIRE" />
 
-        <title>Aplha KAIRE | Menuisier</title>
+        <title>Aplha KAIRE | Menuisier Bois | Dakar | Senegal</title>
 
         <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
 
@@ -46,18 +52,16 @@ function Layout({ children }) {
       </Head>
       {children}
 
-      <Script type="text/javascript" src="/js/jquery-3.4.1.min.js" />
-
-      <Script type="text/javascript" src="/js/bootstrap.js" />
-
       <Script
-        type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        crossorigin="anonymous"
       />
 
-      <Script type="text/javascript" src="/js/custom.js" />
+      <Script src="/js/bootstrap.js" />
 
-      <Script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap" />
+      <Script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js" />
+
+      <Script src="/js/custom.js" />
     </React.Fragment>
   );
 }

@@ -16,10 +16,10 @@ export default function Home({ data }) {
         <Header header={data.header} />
         <Slider slider={data.slider} />
       </div>
-      <ContactUs />
       <About about={data.about} />
       <Service service={data.service} />
       <WhyUs whyUs={data.whyUs} />
+      <ContactUs />
       <Info info={data.info} about={data.about} header={data.header} />
       <Footer />
     </React.Fragment>

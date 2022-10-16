@@ -2,9 +2,9 @@ export const data = {
   about: {
     title: "A Propos de nous",
     description:
-      "Menuiserie Africaine Maguette Kaire chef atelier menuisierie, Ebeniste, Stylise, Decoration. Nous proposons les services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ... Menuiserie Africaine Maguette Kaire chef atelier menuisierie, Ebeniste, Stylise, Decoration. Nous proposons les services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ...",
+      "Menuiserie Africaine Alpha Kaire menuisierie, Ebeniste, Stylise, Decoration. Nous proposons les services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ... Menuiserie Africaine Maguette Kaire chef atelier menuisierie, Ebeniste, Stylise, Decoration. Nous proposons les services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ...",
     image:
-      "https://res.cloudinary.com/kairemor/image/upload/v1612208301/max/IMG_20210201_192853_402_jc6xzd.jpg",
+      "https://res.cloudinary.com/kairemor/image/upload/v1665914596/alpha/photo_2022-10-16_10.02.43_jt8gow.jpg",
   },
   contactUs: "",
   footer: "",
@@ -107,13 +107,31 @@ export const data = {
   },
   slider: {
     image:
-      "https://res.cloudinary.com/kairemor/image/upload/v1612208379/max/IMG_20210201_193011_645_ptk40k.jpg",
+      "https://res.cloudinary.com/kairemor/image/upload/v1665911527/alpha/photo_2022-10-16_09.11.49_znzzql.jpg",
     items: [
       {
+        image:
+          "https://res.cloudinary.com/kairemor/image/upload/v1665911527/alpha/photo_2022-10-16_09.11.49_znzzql.jpg",
         title1: "MENUISERIE ARICAINE",
-        title2: "MAGUETTE KAIRE",
+        title2: "ALPHA KAIRE",
         description:
-          "Menuiserie Africaine Maguette Kaire chef atelier menuisierie, Ebeniste, Stylise, Decoration. Nous proposons les services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ...",
+          "Menuiserie Africaine Alhpa Kaire menuisierie, Ebeniste, Stylise, Decoration. Je propose des services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ...",
+      },
+      {
+        image:
+          "https://res.cloudinary.com/kairemor/image/upload/v1665911546/alpha/IMAGE_2022-10-16_09_12_19_w5kucj.jpg",
+        title1: "MENUISERIE SENEGAL",
+        title2: "KAIRE KAIRE",
+        description:
+          "Menuiserie Africaine Alhpa Kaire menuisierie, Ebeniste, Stylise, Decoration. Je propose des services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ...",
+      },
+      {
+        image:
+          "https://res.cloudinary.com/kairemor/image/upload/v1665911674/alpha/IMAGE_2022-10-16_09_14_29_r4uape.jpg",
+        title1: "MENUISERIE PIKINE",
+        title2: "KAIRE ALPHA",
+        description:
+          "Menuiserie Africaine Alhpa Kaire menuisierie, Ebeniste, Stylise, Decoration. Je propose des services de decorations de vos maisons (porte, fenetre, table a manger ...) vos chambres (double lits, armoires, coiffeuse ...",
       },
     ],
   },

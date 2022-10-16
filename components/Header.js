@@ -24,9 +24,9 @@ function Header({ header }) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <div className="d-flex mx-auto flex-column flex-lg-row align-items-center">
               <ul className="navbar-nav  ">
-                {header.menu.map((menu) => (
-                  <li className="nav-item">
-                    <a className="nav-link" href={menu.link}>
+                {header.menu.map((menu, index) => (
+                  <li key={index} className="nav-item">
+                    <a key={menu.label} className="nav-link" href={menu.link}>
                       {menu.label}
                     </a>
                   </li>

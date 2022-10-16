@@ -339,6 +339,8 @@ a:focus {
 
 .slider_section .img-box img {
   width: 100%;
+  min-height: 70%;
+  max-height: 70%;
 }
 
 .slider_section .slider-container {

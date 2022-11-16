@@ -3,7 +3,7 @@ import React from "react";
 function About({ about }) {
   return (
     <React.Fragment>
-      <section className="about_section layout_padding">
+      <section id="about" className="about_section layout_padding">
         <div className="container about_container ">
           <div className="row">
             <div className="col-md-5 col-lg-4">

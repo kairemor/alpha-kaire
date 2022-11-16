@@ -27,10 +27,10 @@ export const data = {
         label: "SERVICE",
         link: "#service",
       },
-      {
-        label: "POURQUOI NOUS CHOISIR",
-        link: "#why_us",
-      },
+      // {
+      //   label: "POURQUOI NOUS CHOISIR",
+      //   link: "#why_us",
+      // },
       {
         label: "NOS PHOTOS",
         link: "#gallery",

@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactUs() {
   return (
-    <section className="contact_section " id="contactLink">
+    <section id="contact" className="contact_section">
       <div className="container">
         <div className="row">
           <div className="col-md-6">

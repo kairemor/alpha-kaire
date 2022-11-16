@@ -25,11 +25,7 @@ function Layout({ children }) {
         <meta name="author" content="Mor KAIRE" />
 
         <title>Aplha KAIRE | Menuisier Bois | Dakar | Senegal</title>
-        <Script
-          src="https://code.jquery.com/jquery-3.4.1.min.js"
-          crossorigin="anonymous"
-        />
-        <Script src="/js/custom.js" />
+
         <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
 
         <link
@@ -54,6 +50,11 @@ function Layout({ children }) {
 
         <link href="/css/responsive.css" rel="stylesheet" />
       </Head>
+      <Script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        crossorigin="anonymous"
+      />
+      <Script src="/js/custom.js" />
       {children}
 
       <Script
